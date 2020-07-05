@@ -1,0 +1,19 @@
+.title-block{
+  position: relative;
+  margin: 0;
+  padding: 0;
+  background-image: url("../../assets/img/list.jpg");
+  height: 170px;
+  weidth : 200px;
+}
+
+.title-block .heading{
+  font-size: 35px;
+  color: rgb(0, 255, 242);
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Arial Black"
+}
